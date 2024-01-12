@@ -1,6 +1,6 @@
 # Web-Scraping
 
-_Program ini dibuat untuk membantu menganalisis data dari sebuah website dan untuk 
+_Program ini dibuat untuk membantu menganalisis data dari sebuah website (Tokopedia) dan untuk 
 memantau berapa banyaknya produk yang terjual paling banyak menggunakan web scraping.
 Project ini dibuat guna memahami konsep Web Scraping, Business Knowledge dan Practical Statistics._
 
@@ -10,12 +10,10 @@ Project ini dibuat guna memahami konsep Web Scraping, Business Knowledge dan Pra
 
 *Project* dikerjakan dalam format ***Notebook (.ipynb)**  di bawah ini:
 
-1. *Project* dinyatakan selesai dan diterima untuk dinilai jika notebook dapat dirun seluruhnya tanpa ada error (code block web scraping tidak perlu dirun ulang).
-
-2. Pada tugas Project, akan diminta untuk membuat:
+1. Pada tugas Project, akan diminta untuk membuat:
   -  **Notebook (.ipynb)** yang berisikan pengambilan, pengolahan, dan analisis data. Kerjakan dengan Visual Studio Code!
 
-3. Notebook **wajib** diberikan keterangan atau pengenalan dengan menggunakan `comment` atau `docstring` yang berisikan Judul tugas, Nama, Batch, dan penjelasan singkat tentang program yang dibuat, fitur-fitur. Contoh:
+2. Notebook **wajib** diberikan keterangan atau pengenalan dengan menggunakan `comment` atau `docstring` yang berisikan Judul tugas, Nama, Batch, dan penjelasan singkat tentang program yang dibuat, fitur-fitur. Contoh:
     ```py
     '''
     =================================================
@@ -28,15 +26,13 @@ Project ini dibuat guna memahami konsep Web Scraping, Business Knowledge dan Pra
     =================================================
     '''
     ```
-5. Tiap cell diberikan penjelasan mengenai apa yang dilakukan/dijalankan dengan markdown.
-
-6. **WARNING**: Plagiarisme sekecil apapun dapat terdeteksi. Tugas ini akan diuji tingkat plagiarismenya dengan software khusus.
+3. Tiap cell diberikan penjelasan mengenai apa yang dilakukan/dijalankan dengan markdown.
 
 ---
 
 ## Assignment Submission
 
-- Simpan assignment pada Project ini dengan nama `P0G3_<nama>.ipynb` (notebook). Misal `P0G3_fahmi-iman.ipynb`(**Maksimal nama dua suku kata**).
+- Simpan assignment pada Project ini dengan nama `<nama>.ipynb` (notebook). Misal `P0G3_fahmi-iman.ipynb`(**Maksimal nama dua suku kata**).
 - Push file Assigment yang telah dibuat ke repository Github Classroom masing-masing.
 
 ---
